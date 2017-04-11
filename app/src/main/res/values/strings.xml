@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bluetooth Tester</string>
+    <string name="start_scanning">Start scanning</string>
+    <string name="bluetooth_unsupported">Bluetooth is not supported on this device. Please try another one.</string>
+    <string name="unknown_device">Unknown device</string>
+    <string name="bluetooth_class">Bluetooth class:</string>
+    <string name="signal_strenth">Signal strength:</string>
+    <string name="connect">Connect</string>
+    <string name="back">Back</string>
+    <string name="mac_address">MAC address:</string>
+    <string name="successfully_connected_to">Successfully connected to %1$s</string>
+    <string name="error_while_connecting_to">Error while connecting to %1$s</string>
+    <string name="connection_finished_with">Connection finished with %1$s</string>
+    <string name="connecting_to">Connecting to %1$s…</string>
+</resources>
